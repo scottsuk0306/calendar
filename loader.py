@@ -49,11 +49,45 @@ class MSCDataLoader:
         """
         return self.data[data_type].get(session_name, {}).get(file_type, [])
 
-# Example Usage
+
+def _inspect_structure(instance, depth=1, current_level=0):
+    """
+    Recursively inspects the structure of the given instance up to a specified depth.
+    
+    :param instance: The data instance to inspect.
+    :param depth: Maximum depth to explore.
+    :param current_level: Current level of depth.
+    """
+    indent = "  " * current_level  # Indentation for better readability
+    
+    if isinstance(instance, dict):
+        print(f"{indent}Level {current_level} (Dict): Keys - {list(instance.keys())}")
+        if current_level < depth:
+            for key, value in instance.items():
+                print(f"{indent}Inspecting key: {key}")
+                _inspect_structure(value, depth, current_level + 1)
+    elif isinstance(instance, list):
+        print(f"{indent}Level {current_level} (List): Length - {len(instance)}")
+        if current_level < depth and instance:
+            print(f"{indent}Inspecting first item of the list...")
+            _inspect_structure(instance[0], depth, current_level + 1)
+    else:
+        print(f"{indent}Level {current_level}: Type - {type(instance)}")
+
+
+
+# Example Usage    
 if __name__ == "__main__":
-    loader = MSCDataLoader('msc')  # Replace 'path_to_msc_folder' with the actual path to your MSC dataset
+    loader = MSCDataLoader('msc')  # Replace 'msc' with the actual path to your MSC dataset
     loader.load_data()
     
     # Example to get train data for msc_dialogue session 2
     train_data_session_2 = loader.get_data('msc_dialogue', 'session_2', 'train')
     print(f"Loaded {len(train_data_session_2)} training data items for msc_dialogue session 2.")
+    
+    if train_data_session_2:
+        print("Inspecting first instance with deeper structure:")
+        _inspect_structure(train_data_session_2[0], depth=2)  # Adjust the depth as needed
+    else:
+        print("No data found for msc_dialogue session 2 train.")
+
