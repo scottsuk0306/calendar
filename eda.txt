@@ -1,0 +1,1310 @@
+Loaded 4000 training data items for msc_dialogue session_2.
+Analysis Results:
+total_dialogues: 4000
+average_turns_per_dialogue: 11.605
+average_turn_length: 120.25411460577337
+average_personas_per_dialogue: 3.9605
+average_previous_dialogues: 1.0
+
+Inspecting a randomly picked dialogue session:
+
+Metadata:
+  initial_data_id: train:ordered_7104
+  session_id: 1
+Personas:
+  Persona 1:
+    - i like working out.
+    - i don't like hockey.
+    - i don't drink.
+    - i love to sleep.
+    - i always dream
+  Persona 2:
+    - i don't have pets.
+    - I work on a computer all day.
+    - i don't drink.
+    - i like massages. i like to sleep.
+
+Dialogue:
+  Speaker 1: I had the craziest dream, you wouldn't even believe me.
+  Speaker 2: What was the dream about?
+  Speaker 1: It was a dream I had hiked up a mountain and there was a giant gym at the top. Really crazy. Do you dream much?
+  Speaker 2: Not too much, but sometimes. Maybe I dream a lot and just don't remember it.
+  Speaker 1: I have heard we always dream, just some people don't remember them often.
+  Speaker 2: Yeah, that would make sense. Do you always remember your dreams?
+  Speaker 1: I do. It's crazy. Most people I know don
+  Speaker 2: Yeah. I can only remember mine if I wake up in the middle of it. Are your dreams usually good ones?
+  Speaker 1: They are. They're usually a strange combination of what happened during the day, but they are always humorous when I awake. When you remember your dreams are they good?
+  Speaker 2: Usually they're more weird than good, but at least they're not bad!
+
+Questions Asked:
+  Speaker 1:
+    - Do you dream much?
+    - When you remember your dreams are they good?
+  Speaker 2:
+    - What was the dream about?
+    - Do you always remember your dreams?
+    - Are your dreams usually good ones?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_1900
+  session_id: 1
+Personas:
+  Persona 1:
+    - My name is Jane.
+    - I can speak six languages. I was on radio as Bob Man.
+    - In California I ate Japanese food over a camp fire, resulting in a forest fire.
+    - I worked as a child actor on the show Sesame Street because of my foreign language skills.
+  Persona 2:
+    - My name is Rob. I enjoy Japanese language.
+    - I am taking a class. Our class will take a  trip to Japan.
+    - I love Japan.
+
+Dialogue:
+  Speaker 1: What class are you taking?
+  Speaker 2: I am learning Japanese! It will help me on my trip to Japan. Have you learned Japanese?
+  Speaker 1: No, I didn't learn Japanese. When your class is going to Japan?
+  Speaker 2: This summer! What are the six languages you learned? That's an amazing amount by the way. 
+  Speaker 1: I know French, Chinese, Arabic, Spanish, Italian and Portugese. Do you know other language?
+  Speaker 2: Oui! I took French in high school and college. I am pretty decent at reading and writing it but not so much at verbal conversation. What was it like working on Sesame Street as a kid?
+  Speaker 1: It was amazing. I like kids. Do you have any kids?
+  Speaker 2: I don't have any children yet but I hope to someday! I will probably show them Sesame Street because I think it was educational for me as a child. Did you ever watch the episodes that you were in?
+  Speaker 1: No but I watch the episodes that I am not in it. I miss being an child actor. I like a lot helping children learn.
+  Speaker 2: Maybe you could teach foreign language classes to kids now?
+  Speaker 1: It is good idea. Will it be your first time that you go to Japan?
+  Speaker 2: Yes my first time! I am excited. Have you traveled much?
+
+Questions Asked:
+  Speaker 1:
+    - What class are you taking?
+    - When your class is going to Japan?
+    - Do you know other language?
+    - Do you have any kids?
+    - Will it be your first time that you go to Japan?
+  Speaker 2:
+    - Have you learned Japanese?
+    - What are the six languages you learned?
+    - What was it like working on Sesame Street as a kid?
+    - Did you ever watch the episodes that you were in?
+    - Maybe you could teach foreign language classes to kids now?
+    - Have you traveled much?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_6732
+  session_id: 1
+Personas:
+  Persona 1:
+    - I am a cashier at Target.
+    - I take a break every other month to watch movies.
+    - I have a small dog. It is a Boston Terrier. I have to buy him dog biscuits everyday.
+  Persona 2:
+    - I work at a market research firm.
+    - I listen to beetle, Beach boys and Country music sometimes.
+    - I have a cat. I play the bass.
+    - I have a lot of vintage furniture.
+    - I live in a rural area.
+
+Dialogue:
+  Speaker 1: I just got back from the pet store
+  Speaker 2: Oh cool, did you pick up the biscuits? Did they have any promos on cat food by the way? Mr Pringles is eating so much at the moment, I can't keep up!
+  Speaker 1: Yes! My dog goes through the biscuits really quickly too! I think there is a promo on canned cat food.
+  Speaker 2: Sweet, I'll check that out! How is the pup doing? 
+  Speaker 1: My pup is very happy! Really loves those dog biscuits! Looking forward to my break.
+  Speaker 2: Is he quite high energy with it? Sounds good, what are you getting up to on your break?
+  Speaker 1: He's so full of energy. Relaxes when I watch movies though. So I'm going to watch movies with him on my break.
+  Speaker 2: That sounds great! What films do you watch?
+  Speaker 1: I like to watch classics like Pulp Fiction. I do know it has vintage furniture in it.
+  Speaker 2: Oh, I'm gonna need to check that out? Is it a good film?
+  Speaker 1: Yes, very good! It's a classic, since you're into oldie music I'm sure you'll like it.
+  Speaker 2: You know me too well! I was jamming some bass along to the Beach Boys earlier - the cat doesn't appreciate! Does your dog tolerate music?
+
+Questions Asked:
+  Speaker 1:
+    No questions asked.
+  Speaker 2:
+    - Oh cool, did you pick up the biscuits?
+    - Did they have any promos on cat food by the way?
+    - How is the pup doing?
+    - Is he quite high energy with it?
+    - Sounds good, what are you getting up to on your break?
+    - What films do you watch?
+    - Oh, I'm gonna need to check that out?
+    - Is it a good film?
+    - Does your dog tolerate music?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_7742
+  session_id: 1
+Personas:
+  Persona 1:
+    - I am a student.
+    - I love music. I play the trumpet in a band.
+    - I enjoy movies.
+  Persona 2:
+    - I am blind.
+    - I am a radio DJ. I do not play an instrument. I love radio. I read braille.
+
+Dialogue:
+  Speaker 1: My band has a performance coming up!
+  Speaker 2: How cool. I'd love to come. Where will you be performing?
+  Speaker 1: We will be performing at a local jazz festival. We will be debuting our first album. Maybe you can pick one up to play on your radio station.
+  Speaker 2: That's great! I'd love to hear it and see if I can pitch it to my boss. He has the final say as to what goes on the air.
+  Speaker 1: Okay, that is understandable. What type of music do you usually play at the station?
+  Speaker 2: We mostly do new hits, pop, and some older classics from the 80's and 90's. What genre is your band?
+  Speaker 1: We do mostly jazz, but we do have some crossover singles as well. Anyway you should come to the festival. They are very accessible to the visually impaired.
+  Speaker 2: It sounds like a good time. Do you know of any other performers that will be there?
+  Speaker 1: The other acts will be mostly young up and coming artists in the jazz and blues scene. However somehow they managed to get Grammy winner Esperanza Spalding as the headliner act. They must have paid her a fortune to get her to sign on.
+  Speaker 2: I'll definitely be there! I may see if some of my co workers want to come as well. A few of them are really into jazz so I'm sure they
+  Speaker 1: Cool, I think you will definitely have a good time. Be sure to stop at my band's booth to say hello. We will be performing our set on Friday and Saturday evening from 6-7 pm.
+  Speaker 2: For sure. How many people are in your band?
+
+Questions Asked:
+  Speaker 1:
+    - What type of music do you usually play at the station?
+  Speaker 2:
+    - Where will you be performing?
+    - What genre is your band?
+    - Do you know of any other performers that will be there?
+    - How many people are in your band?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_1702
+  session_id: 1
+Personas:
+  Persona 1:
+    - I love listening to music. 
+    - I work out everyday.
+    - I like watching baseball, and other sports. 
+    -  I own a lot of cars. Ferrari is my favorite car company. Pizza is my favorite. 
+  Persona 2:
+    - I am next to Miley Cyrus and Pnd Rock.
+    - I have imaginary friends. 
+    - My favorite show is tom and jerry. 
+    - I like watching games with bbq sandwiches and pizza puffs. 
+
+Dialogue:
+  Speaker 1: I watched last nights baseball game. It was exciting. 
+  Speaker 2: Yes, it was a really good game! We did a bbq watch party to get ready to watch!
+  Speaker 1: Good for you. Did you watch the same baseball game as I did?
+  Speaker 2: Yes, we watched the baseball game. We watch a lot of different games at our bbqs, but last night only baseball was on!
+  Speaker 1: Good to hear that. I was rooting for Red Sox. Who did you root for?
+  Speaker 2: I was rooting for the Cubs! Did you treat yourself to a pizza while watching the game?
+  Speaker 1: Not pizzas but I had chicken wings and beer. It was a lot of fun. Did you have beer with your bbqs?
+  Speaker 2: Still sounds like a good game night dinner! I did not have beer, my friends don't drink, so we just enjoyed all the good food!
+  Speaker 1: That's okay. Were you disappointed to see Cubs go down just like that?
+  Speaker 2: Yes, it was sad to see them lose. Still, it was such an exciting game that at least they fought until the last minute!
+  Speaker 1: I loved their spirit. Hope other games would be just like this one.
+  Speaker 2: Yes, it's nice to see players of any sport so passionate and in the moment, enjoying the game!
+
+Questions Asked:
+  Speaker 1:
+    - Did you watch the same baseball game as I did?
+    - Who did you root for?
+    - Did you have beer with your bbqs?
+    - Were you disappointed to see Cubs go down just like that?
+  Speaker 2:
+    - Did you treat yourself to a pizza while watching the game?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_7458
+  session_id: 1
+Personas:
+  Persona 1:
+    - I like reading the tale of genji.
+    - My mother is dead.
+    - I am a student. My dad works in Texas a m University. I attend Texas university.
+    - My niece has epilepsy.
+  Persona 2:
+    - I have a reading list. I go swimming often.
+    - I have divorced parents.
+    - I don't have a job currently. I have epilepsy.
+    - My son is ten years old.
+
+Dialogue:
+  Speaker 1: I just got started in some school work.
+  Speaker 2: Good for you! Do you think you'll work on homework the rest of the day too?
+  Speaker 1: I hope not. I'd like to run some errands later. Have you been swimming lately?
+  Speaker 2: Yes, I just got done swimming again a few minutes ago. I'm exhausted now! lol What subject are you working on now?
+  Speaker 1: I am working on advanced statistics. It is really tough! I am hoping to get the hang of it soon.
+  Speaker 2: That sounds difficult, yikes! You are in an amazing college and is really impressive! My son whats to go there too someday!
+  Speaker 1: It is a great campus, I would recommend it. Has your son visited any schools yet?
+  Speaker 2: No, he is only 10 years now but he is really smart and in advanced classes in school. I will take him to visits colleges when he is in the 12th grade probably.
+  Speaker 1: Oh, that makes sense. Does your son participate in any sports?
+  Speaker 2: Yes, he swims with me most of the time. Because of my health issue I need someone to be with me in case I have a spell. It is really good cardio for both of us.
+  Speaker 1: That sounds like great exercise. Have you ever competed in swimming?
+  Speaker 2: No, I have some limitations from my health condition but I am thankful for being about to exercise at all. Have you still been reading Tales of Genji?
+
+Questions Asked:
+  Speaker 1:
+    - Have you been swimming lately?
+    - Has your son visited any schools yet?
+    - Does your son participate in any sports?
+    - Have you ever competed in swimming?
+  Speaker 2:
+    - Do you think you'll work on homework the rest of the day too?
+    - lol What subject are you working on now?
+    - Have you still been reading Tales of Genji?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_1472
+  session_id: 1
+Personas:
+  Persona 1:
+    - I am in a book club. 
+    - I like taking walks with my Mother. My mother and I are good friends. 
+    - I don't like tv. I prefer spending time on my phone. 
+    - I like cats more than dogs. 
+  Persona 2:
+    - I am not in a book club anymore. 
+    - I like cooking. I do not bake. 
+    - I have 3 dogs. 
+    - I don't have a cat. 
+
+Dialogue:
+  13098: Do you have any brilliant and tasty recipes for Thanksgiving leftovers?
+  Speaker 2: Oh yes, i love doing a Turkey Curry with all the leftover Turkey - you ever tried that?
+  Speaker 1: No i have never tried that but I would love to do it, you have to send me the recipe
+  Speaker 2: Yes of course i can do that for you! How is your mum doing?
+  Speaker 1: Oh she is doing great looking younger and younger every day. we take a lot walks so thats why. how are your cute dogs?
+  Speaker 2: Oh that's good, glad she is doing well! My dogs are great thanks, keeping me on my toes and i obviously get out for lots of walks with them like you and your mum!
+  Speaker 1: that must be pretty hard to go with 3 dogs at the time, you must have good skills with dogs. 
+  Speaker 2: Yeah it isn't easy that's for sure! You ever thought about getting a dog?
+
+Questions Asked:
+  13098:
+    - Do you have any brilliant and tasty recipes for Thanksgiving leftovers?
+  Speaker 2:
+    - Oh yes, i love doing a Turkey Curry with all the leftover Turkey - you ever tried that?
+    - How is your mum doing?
+    - You ever thought about getting a dog?
+  Speaker 1:
+    - how are your cute dogs?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_5170
+  session_id: 1
+Personas:
+  Persona 1:
+    - My name is Chad. I am from New England.
+    - I am going to live in Oregon and attend Reed College next year.
+    - I like beer.
+    - I like to play lacrosse.
+  Persona 2:
+    - I am part of a team. I am a goalie. My number is 42. I like to play soccer.
+    - I like Nike. Nike cleats are my favorite.
+
+Dialogue:
+  19698: I blocked a few goals at my last game and we won. I also learned where I'm going to be staying when I go to college.
+  Speaker 2: Wow, nice job, congrats, I wish I saw that game! And? Where?
+  Speaker 1: Reed College in Oregon. I am going to be heading of f there next year. I wonder if I can walk onto their Lacrosse team? 
+  Speaker 2: I've heard about that one actually, my friend considered going there. Yeah, I think it's great choice for you, their Lacrosse team is pretty good from what I've heard. Do you want to go pro after college?
+  Speaker 1: Heck yeah, that would be my hope. What about you; do you think you will play soccer in college?
+  Speaker 2: I'm pretty sure I will, yeah. Everyone needs a goalie, you know how it is, we're a rare kind haha. I haven't picked a college yet though, so maybe I'll look into Reed's soccer team and we can go there together, what do you think?
+  Speaker 1: That would be pretty great then we could room together. You're not wrong about that goalies are definitely a rare breed not all people want balls and or parks to be lost at them at a high velocity and it takes a special person to want to put their body in front of it. We're playing goalie do you like to use the same brand of cleats as well as for your gloves as well? I tend to use the same brands for my gear.
+  Speaker 2: Yeah, definitely, there's no other kind of brand that gives me such certainty in my success. I know it sounds like something straight from the ad, but they do make one hell of a quality equipment :)
+  Speaker 1: Nike? Is that the brand you are speaking about?
+  Speaker 2: Correct, I've mentioned this before. My brother works there, so I get a discount too haha. Even though the main thing is teamplay, I feel like equipment matters a lot too.
+  Speaker 1: yeah I thought so! that is cool to get a discount. Do you want to go the corp store in Oregon when we get to Reed? You know there is no sales tax in OR! And i agree it makes a big difference in Lacrosse as well. Does your bro play soccer too?
+  Speaker 2: That's a good idea, I think we should do it, yes. No, he's more into tennis actually. He plays soccer sometimes, mostly when I'm taking him with me to the training, but that's definitely not his favorite sport.
+
+Questions Asked:
+  19698:
+    No questions asked.
+  Speaker 2:
+    - And?
+    - Where?
+    - Do you want to go pro after college?
+    - I haven't picked a college yet though, so maybe I'll look into Reed's soccer team and we can go there together, what do you think?
+  Speaker 1:
+    - I wonder if I can walk onto their Lacrosse team?
+    - What about you; do you think you will play soccer in college?
+    - We're playing goalie do you like to use the same brand of cleats as well as for your gloves as well?
+    - Nike?
+    - Is that the brand you are speaking about?
+    - Do you want to go the corp store in Oregon when we get to Reed?
+    - Does your bro play soccer too?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_1731
+  session_id: 1
+Personas:
+  Persona 1:
+    - I am a long distance runner. I have problem with my knees.
+  Persona 2:
+    - I am a fisherman.
+    - I am from Cape Hatteras.
+    - I live in Cape Hatteras in north part of NC.
+    - I like to fish tuna.
+
+Dialogue:
+  Speaker 1: In the end, the appointment with the doctor went great
+  Speaker 2: That's good to hear. Do you run in any famous marathons? 
+  Speaker 1: I've tried to qualify for the Boston Marathon but so far I haven't been fast enough.  It would be really cool to run in a big one though!
+  Speaker 2: Yea, that would be a really cool one to participate in. I've never been good at running. 
+  Speaker 1: You either love it or you don't.  A lot of people can't understand why I love it so much.  It's just not for everyone.  How's fishing going?
+  Speaker 2: Fishing is great. I love just getting out on the boat and relaxing by myself.
+  Speaker 1: What do you catch besides tuna?  Does a job as a fisherman pay a decent amount?  I always see the shows where the people fish for crab and they make a ton!
+  Speaker 2: I get by alright. I don't catch the  Tuna that are worth as much as you see on the show Wicked Tuna. I go after a lot of red snapper when they are in season also.
+  Speaker 1: Are tuna hard to reel in?  I've seen people fishing and they really struggle to get their fish in the boat!  I wasn't sure if tuna fight really hard
+  Speaker 2: Oh yea they put up a fight. Most fish that live in water with currents are really strong. Even small ones. 
+  Speaker 1: That sounds like fun!  Do you have to live on the boat for periods of time or do you get to go home each night and come back in the morning?
+  Speaker 2: It just depends on how far I need to go out. I can stay on the boat in the cabin but usually I go back home.
+
+Questions Asked:
+  Speaker 1:
+    - How's fishing going?
+    - What do you catch besides tuna?
+    - Does a job as a fisherman pay a decent amount?
+    - Are tuna hard to reel in?
+    - Do you have to live on the boat for periods of time or do you get to go home each night and come back in the morning?
+  Speaker 2:
+    - Do you run in any famous marathons?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_1741
+  session_id: 1
+Personas:
+  Persona 1:
+    - I love to watch horror shows.
+    - My favorite author is stephen king.
+    - I am Christian.
+  Persona 2:
+    - I don't have any animals.
+    - I love to watch superman.
+    - I like to journal.  I have been cheated by my exes, one of them is called Amanda.
+    - I am atheist.
+    - I do not like to ski. I have kids who are twins.
+    - My kids are 16 years old.
+
+Dialogue:
+  Speaker 1: There is a new horror show next week and I am excited about it.
+  Speaker 2: What is it called? I might have to give it a watch.
+  Speaker 1: It's called The Haunting of Hill House.  It's on Netflix.  It looks really scary!  The writer has been said to be similar to Stephen King!
+  Speaker 2: That sounds pretty good! I think my kids would like that.
+  Speaker 1: Do they usually like scary movies?
+  Speaker 2: Yes, they like scary and action movies.
+  Speaker 1: I'm sure they'd like it then!  I can't remember, are they boys or girls?
+  Speaker 2: One boy and one girl. Do you have any kids?
+  Speaker 1: I don't have any yet.  Hopefully some day!  Do you want any more?
+  Speaker 2: No, I think that'd be too big of an age gap.
+  Speaker 1: Yeah probably.  Although I know someone who has a 19 year old, a 17 year old, a 16 year old and just had a baby!  Crazy!
+  Speaker 2: That is crazy! Dealing with moody teenagers and a new baby, that's too much for me!
+
+Questions Asked:
+  Speaker 1:
+    - Do they usually like scary movies?
+    - I can't remember, are they boys or girls?
+    - Do you want any more?
+  Speaker 2:
+    - What is it called?
+    - Do you have any kids?
+
+
+Loaded 4000 training data items for msc_dialogue session_3.
+Analysis Results:
+total_dialogues: 4000
+average_turns_per_dialogue: 11.81475
+average_turn_length: 126.06438985166847
+average_personas_per_dialogue: 4.65525
+average_previous_dialogues: 2.0
+
+Inspecting a randomly picked dialogue session:
+
+Metadata:
+  initial_data_id: train:ordered_7062
+  session_id: 2
+Personas:
+  Persona 1:
+    - I have had 3 jobs for 6 years.
+    - I work on cars. I also raise dogs, pits and chihuahuas.
+    - I walk 2 miles daily to my favorite restaurant. I walk to the movies once a week.
+    - I have never been to the Appalachian trail.
+    - I play music.
+    - I've never owned a cat, but am interested. I've had animals before.
+  Persona 2:
+    - I am a cook at a local restaurnat.
+    - I hiked the Appalachian trail last summer. I go trail running.
+    - I have 14 cats. I like cats more than dogs.
+
+Dialogue:
+  Speaker 1: What kind of food does your restaurant cater to?
+  Speaker 2: They serve southern cuisine. It's a fun job, and it lets me be really creative!
+  Speaker 1: Like soul food or more creole / new orleans?
+  Speaker 2: We tend to do more soul food, though I've tried to add a Cajun touch to some of our dishes. I make a creole spice rub that makes just about everything taste better!
+  Speaker 1: I love cornbread. I wish I could get good soul food in my area. At least there is an okay Italian place within walking distance of my house.
+  Speaker 2: I should ship some over to you! We make cornbread that is to die for. What's your favorite dish at the Italian joint?
+  Speaker 1: I like a classic lasagna. How big of an order do I need to place to get it shipped over?
+  Speaker 2: We sell it by the sheet, which serves 8 people. If I remember correctly, it's $30 including shipping.
+  Speaker 1: I'm assuming the menu is on your website. Any dishes you'd recommend?
+  Speaker 2: I'd look at getting some of our fried okra. We sell it such that all you have to do is heat it up in the microwave, and it tastes just like it was served fresh at the restaurant!
+  Speaker 1: Awesome. Thanks. I'll give it a try. My cooking skills suck, but I'm an excellent microwaver.
+  Speaker 2: Haha that's funny; fortunately, being a good microwaver is all you need to cook a feast from us!
+
+Questions Asked:
+  Speaker 1:
+    - What kind of food does your restaurant cater to?
+    - Like soul food or more creole / new orleans?
+    - How big of an order do I need to place to get it shipped over?
+    - Any dishes you'd recommend?
+  Speaker 2:
+    - What's your favorite dish at the Italian joint?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_8059
+  session_id: 2
+Personas:
+  Persona 1:
+    - I like to go fishing on the lake and the ocean.
+    - My mother is from Alabama.
+    - I like eating steaks and potatoes together. My favorite meals come from Greek cuisine. I love baklava and gyros. I like lamb gyros and bakaliaros.
+    - My favorite American dish is southern style fried catfish. My mother is from the South.
+  Persona 2:
+    - I work.
+    - I like to swim and cook.
+    - My mother is from Greece. My dad is from South Carolina. My dad owns a house. I like the color green.
+    - I like discovering new recipes. I'm not very good at cooking Greek food.
+
+Dialogue:
+  Speaker 1: My brother is an Olympic swimmer. When do you usually go swimming?
+  Speaker 2: I go to the YMCA and swim almost every day.  I can't wait for it to be warm enough to go to the beach.  Do you ever swim with your brother?
+  Speaker 1: Not really. He travels quite a bit due to his training. How often do you go to the YMCA?
+  Speaker 2: I try to go everyday.  I spend almost 2 hours a day there.  Then when it gets warm I go to the beach and swim.  The weather is being cold longer this spring.
+  Speaker 1: That sounds fun. Never been to a YMCA, since there isn't one around. What kind of sports do you play at the YMCA?
+  Speaker 2: I only swim when I'm there.  I would love to be like your brother and be an Olympic swimmer.  That sounds so exciting.  Do you think he will go to the Olympics in Japan?
+  Speaker 1: Hopefully, that's his wish. He's been training 5 days a week, for the past 3 months. Is there other foods you like besides Greek food?
+  Speaker 2: I love Pizza!  Especially a veggie pizza.  There is a new Greek Pizzaria in town I have been wanting to try.  Have you ever been to one?
+  Speaker 1: No, never had it. Though, that sounds tasty. Do you like pineapple on your pizza?
+  Speaker 2: Yes I sure do!  I could eat lots of pineapple pizza.  It is so sweet.  What is your favorite pizza or do you like pizza?
+  Speaker 1: I love pizza. My favorite would be cheese, any kind of cheese to be honest. 
+  Speaker 2: Now I am hungry.  I may try the Greek place for dinner.  Do you know what you're having for dinner?
+
+Questions Asked:
+  Speaker 1:
+    - When do you usually go swimming?
+    - How often do you go to the YMCA?
+    - What kind of sports do you play at the YMCA?
+    - Is there other foods you like besides Greek food?
+    - Do you like pineapple on your pizza?
+  Speaker 2:
+    - Do you ever swim with your brother?
+    - Do you think he will go to the Olympics in Japan?
+    - Have you ever been to one?
+    - What is your favorite pizza or do you like pizza?
+    - Do you know what you're having for dinner?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_6615
+  session_id: 2
+Personas:
+  Persona 1:
+    - I deliver lumber to the Bay Area.
+    - I enjoy fishing. I plan on fishing on opening day. I once caught a bluegill that was 7.5 inches long. I have a car that is leaking oil.
+  Persona 2:
+    - I have an auto repair business.
+    - I enjoy fishing. I plan on fishing opening day.
+    - I like cheeseburgers.
+    - I like the Yankees baseball team.
+    - I have a big truck.
+
+Dialogue:
+  Speaker 1: How was the spring training game? Were you able to watch it at all? Ready to catch some fish?
+  Speaker 2: The game got rained out.  That was a good excuse to go fishing.
+  Speaker 1: Oh, so you already went fishing? Have you caught anything special?
+  Speaker 2: I never seem to catch very much of anything.  To be fair I like the ambiance as much as the actual fish-catching.
+  Speaker 1: Understood. It's the opposite for me - I'm all about catching the biggest fish haha. 
+  Speaker 2: Do you keep them and cook them?  Or stuff and mount them? Or are you a catch-and-release person?
+  Speaker 1: The latter. I'm too lazy to cook them and stuffing is a lot of work too. Also I just feel bad about the fish, so I'm just releasing it back into the water. What about you?
+  Speaker 2: It depends.  Sometimes I just catch them and put them back.  But once in a while I'll keep a real trophy fish, or I'll fish specifically to get dinner.
+  Speaker 1: Oh, that's interesting. Do you have any recipes to share? Something fast and easy preferably.
+  Speaker 2: I'm pretty simple in the kitchen.  I just pan fry them.  Maybe if I'm feeling adventurous I'll bread them and fry them.  But that's pretty rare.
+  Speaker 1: Haha that's my type of cooking for sure. Which fish do you like the most?
+  Speaker 2: I'm really partial to catfish although I don't catch them around here.  I grill catfish.  Around here I catch walleye mostly and those I pan fry.
+
+Questions Asked:
+  Speaker 1:
+    - How was the spring training game?
+    - Were you able to watch it at all?
+    - Ready to catch some fish?
+    - Oh, so you already went fishing?
+    - Have you caught anything special?
+    - What about you?
+    - Do you have any recipes to share?
+    - Which fish do you like the most?
+  Speaker 2:
+    - Do you keep them and cook them?
+    - Or stuff and mount them?
+    - Or are you a catch-and-release person?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_1125
+  session_id: 2
+Personas:
+  Persona 1:
+    - I like playing tennis. I play tennis but i am not really good at it.
+    - My mom is a dentist. 
+    - I don't have kids. I have 2 sisters.
+    - I am a baker. I enjoy baking.
+    - My favorite show is Silicon Valley.
+    - I have never heard of Friends.
+  Persona 2:
+    - My hobbies are painting, nails, and wall decor.
+    - I played tennis when I was a teenager. I haven't played tennis for over 20 years.
+    - I am a nail technician. 
+    - I have 3 daughters, one of them wants to be a nail technician. My kids are young. I watch my daughters play tennis.
+    - My favorite show is Will Grace.
+    - I have not watched Friends.
+    - I cook.
+
+Dialogue:
+  Speaker 1: Did you start watching Friends as yet?
+  Speaker 2: I did, yes, watched a few epsiodes yesterday. It was pretty good, but not as good as anyone says, at least so far. Are you going to start watching it too?
+  Speaker 1: I don't think so.  I've gone this long without seeing it, may as well keep those bragging rights lol.  I hear kids like it though, did you watch with your girls?
+  Speaker 2: Suit yourself :P Nah, not sure where did you hear that, but I'm definitely not showing it to my kids haha. I'd say it's as suitable for kids as Silicon Valley is.
+  Speaker 1: Ohhh I see.  A friend of mine mentioned that she and her daughter watch it all the time, but her daughter is a little older.  I certainly wouldn't let kids watch Silicon Valley!
+  Speaker 2: Yeah, same. And they're too busy with school and tennis anyway, at least for now. So I'll just keep watching to see if it's really that good.
+  Speaker 1: Well definitely let me know. Have you gotten out to play tennis with them?  I went a couple weeks ago and had a blast, but it was exhausting.  Not as easy on the body as it was back in the day.
+  Speaker 2: Yes, we've actually been playing on weekends lately, will go for it this weekend too. You can join us and take your sisters with you too, how does that sound?
+  Speaker 1: That sounds so fun!  You'll have to take it easy on me though ok.
+  Speaker 2: Don't worry, I'm not playing myself, only my kids do haha. They're pretty good at it actually, so beware :P
+  Speaker 1: Well I'm bringing an extra racket so you'll have to come play too!
+  Speaker 2: I'll definitely think about it haha. Been a while since I've played, so I'll probably be in a worse shape than you are.
+
+Questions Asked:
+  Speaker 1:
+    - Did you start watching Friends as yet?
+    - I hear kids like it though, did you watch with your girls?
+    - Have you gotten out to play tennis with them?
+  Speaker 2:
+    - Are you going to start watching it too?
+    - You can join us and take your sisters with you too, how does that sound?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_5526
+  session_id: 2
+Personas:
+  Persona 1:
+    - I like eating. I like sports.
+    - I am a lifeguard at the pool. I work 5 days a week, and enjoy my job. I swim before my shift each day. I lifeguard at the ocean in summer and love it. I like spring, too.
+    - I like alternative music and my favorite right now is Dashboard Confessional. I don't listen to country music. My friends like country music. Country music reminds me of warm weather, and I like summer.
+    - I live in Maryland.
+  Persona 2:
+    - My parents owns a small restaurant. My family business was started in Italy. I have a boring job as an accountant. I help at the restaurant on weekends. Rice is my favorite.
+    - I enjoy hockey. I like to swim at the local YMCA. We do not want our own pool. I have two small children who take swimming lessons at the YMCA.
+    - I love rock music. I like country music and my favorite singer is Keith Urban.
+    - I like spring. Summer is too hot for me. I used to live in Arizona.
+
+Dialogue:
+  Speaker 1: Since your family business started in Italy, does your family have an Italian restaurant?
+  Speaker 2: Yes it is an Italian restuarant, the best around IMHO. 
+  Speaker 1: I guess being a rice lover you must love risotto, do you have a favourite flavour?  
+  Speaker 2: I am partial to the simplicy of parmesan risotto
+  Speaker 1: I love risotto, my favourite is pea with Parmesan and mint. Do you use wine in your risotto at the restaurant or vermouth? 
+  Speaker 2: A white wine, I've never made it with vermouth.
+  Speaker 1: I often see top chefs using vermouth. I tried it once but ended up drinking the vermouth and falling sleep without even starting the risotto! 
+  Speaker 2: Lol, I am not a big drinker so I feel comfortable with wine. 
+  Speaker 1: I like to drink also. I have a golden rule with wine that 2 glasses for the pot and 1 large 1 for me when making risotto. Thats one of my favourite things about making it. 
+  Speaker 2: I love that rule, I will be doing that from now on. 
+  Speaker 1: I guess its good for home but might not be so good at work where you have to make much bigger quantities! 
+  Speaker 2: I don't work at the restaurant, my parents just own it. I am an accountant. 
+
+Questions Asked:
+  Speaker 1:
+    - Since your family business started in Italy, does your family have an Italian restaurant?
+    - I guess being a rice lover you must love risotto, do you have a favourite flavour?
+    - Do you use wine in your risotto at the restaurant or vermouth?
+  Speaker 2:
+    No questions asked.
+
+
+
+Metadata:
+  initial_data_id: train:ordered_5370
+  session_id: 2
+Personas:
+  Persona 1:
+    - I'm from Nashville. I am majoring in experimental physics at Tennessee State. I like music.
+    -  I don't like my job.  I am looking for a job.
+  Persona 2:
+    - I am thin.
+    - I'm an adjunct professor of music. I'm from Pittsburgh. I'm allergic to seafood shrimp.
+    - I am from Pittsburgh. I mostly travel to Nashville with my wife for fun.
+
+Dialogue:
+  Speaker 1: I hope you're eating well, how's your job?
+  Speaker 2: It's going well, I got my sabbatical approved for next year! I want to do a RV trip with my wife.
+  Speaker 1: happy to hear that) what do you plan to do in your spare time there?
+  Speaker 2: I have a list of places that I want to visit. I've never gotten to go to the Cleveland Rock and Roll Hall of fame for instance. I also plan on working on a number of compositions and looking for a better paying position.
+  Speaker 1: so interesting....I wish to learn how to play on the  musical instrument. Which one would you recommend?
+  Speaker 2: It depends on what kind of music you want to play! I play a great many instruments but started with guitar and piano. They're generally the easiest to build foundational skills on and learn to read music if you don't know how.
+  Speaker 1: So I have definitely start with the guitar.How many days do you plan to spend in Cleveland Rock Trip?
+  Speaker 2: I was thinking maybe three days in Cleveland to see the Rhythm and Blues Hall of Fame and The Rock and Roll Hall of Fame. I also wanted to visit Kentucky and a few other neighboring states. I figured I'd make a loop around the few states for 30 days to 45 days. I'm limited on how much time we can spend away from our apartment. 
+  Speaker 1: yeah... sounds impressive) meanwhile I am a home bird) By the way. how is your wife going? As far as remember she is great in cooking. What is new did you try recently?
+  Speaker 2: She tried to make Ethiopian food the other night. They have a special kind of flatbread called injara and a special kind of stew I can't remember the name of. Very flavorful but different!
+  Speaker 1: That is sounds great! My wife always call yours in order to figure out, how to do this or that. You are a lucky guy, man!
+  Speaker 2: She had said they had enjoyed greatly conversing. We generally get along pretty well, and I'm always appreciative of her cooking talent.
+
+Questions Asked:
+  Speaker 1:
+    - I hope you're eating well, how's your job?
+    - happy to hear that) what do you plan to do in your spare time there?
+    - Which one would you recommend?
+    - So I have definitely start with the guitar.How many days do you plan to spend in Cleveland Rock Trip?
+    - how is your wife going?
+    - What is new did you try recently?
+  Speaker 2:
+    No questions asked.
+
+
+
+Metadata:
+  initial_data_id: train:ordered_2233
+  session_id: 2
+Personas:
+  Persona 1:
+    - My name is Jane. 
+    - I live in my parent's basement in Virginia.
+    - I work at a flower shop. I feed stray cats on my way to work. I want to adopt 2 kittens.
+    -  I don't go outside much.  I read a lot of used books.
+    - I like vegetarian food. I like green beans.
+    - I am renovating my basement apartment.
+  Persona 2:
+    - My name is Mia.
+    - I live in an apartment I rent. My apartment is stuffy.  My apartment has a balcony.
+    - I work at Merrill Lynch in Beverly Hills. I enjoy my job.   I live in Beverly Hills.  I walk to work. 
+    - I play baseball,  soccer.  I am allergic to cats.
+    - I love being outside. 
+    - I hate green beans.
+    - I like to read. I haven't read 100 Years of Solitude.
+
+Dialogue:
+  Speaker 1: Mia, I found an interesting book about a famous baseball player I think you would like.
+  Speaker 2: That's great, I'd love to give it a read.  Who is it about?
+  Speaker 1: It's about Babe Ruth, but it focuses more on his journey through childhood and as a young adult rather than his baseball career. It's very inspirational and moving. I blazed through it in one sitting! If you want I can send it to you so you can read it while you walk to work. 
+  Speaker 2: I'm always looking for new books to read on my walk, sounds great!  You always recommend the best books. How is your renovation going? 
+  Speaker 1: Cool beans, I'll send it over your way tomorrow! It's going fairly well actually. I'll have to show you some pictures, it's very modern and everything has a sleek finish. I knocked down the wall in the kitchen so now it's wide open with the dining room. Has your apartment still been giving you trouble with how stuffy it is?
+  Speaker 2: I cannot wait to see all that you have done.  Maybe you will motivate me to do the same.  Opening up the floor plan may make the apartment seem less stuffy.  I try to keep the balcony open but have to close it during the day.  One of my neighbor's cats got in last time I left the door open and I had quite an allergy attack!
+  Speaker 1: Oh no, that's terrible! You know, I heard a good way to keep cats out is to have bowls of water laying in front of the doors. It's an old trick my family used to do to keep cats from coming in, you should give it a try! By the way, I heard your soccer team made it to the finals, congratulations!
+  Speaker 2: I will give it a try - you are going to be a great cat owner once you find a couple kittens to adopt!  Yes, thank you! We barely made it in and scored the winning goal in the very last minute of the game.  It was a good one.  If you're not working at the flower shop on Saturday, you should come watch it!
+  Speaker 1: I would love that! Is it too corny if I make a sign with your number on it? I'll even bring some flowers from the shop to celebrate, I feel like I just know you're going to win!
+  Speaker 2: You are such a good friend, go for it!! The sign I think will help me play better. After that we should try the new vegetarian restaurant that is close to the soccer field.  I went there a few weeks ago and they have the BEST fried green beans.
+  Speaker 1: Oh my gosh, totally! I'm so excited, I feel like I haven't seen you in forever. I miss going to new restaurants and trying their food with you. I feel like we both got caught up with work and drifted apart a little bit, but I'm so excited to be seeing you this weekend! 
+  Speaker 2: Its a plan, let's definitely keep this going.  It has been way too long my friend!
+
+Questions Asked:
+  Speaker 1:
+    - Has your apartment still been giving you trouble with how stuffy it is?
+    - Is it too corny if I make a sign with your number on it?
+  Speaker 2:
+    - Who is it about?
+    - How is your renovation going?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_6851
+  session_id: 2
+Personas:
+  Persona 1:
+    - My name is Kate.
+    - I work at a library. I like to read.
+    - I am not much of a fan of hot weather. I wish I travelled. Life is rough for me right now. I like to go hiking.
+    - I like spending time with my family. I hate bee stings.
+    - I don't have any kids. I want to have 2 kids. I spend time with my young nieces often. I like to think I'm a fun, cool aunt.
+    - I have a collection of about 20 books. I lend books to friends and family.
+  Persona 2:
+    - My name is Lindsay. I am a kindergarten teacher at a large school in Memphis, TN. My class has 26 students who are 5-6 years old. I love how excited they get when learning.
+    - I have family.
+    - I graduated college in 2016 with a degree in child development education.
+    - I like to go hiking and art. I like to use hobbies to destress from life.
+    - I do not want children. I want to travel. I enjoy kayaking in my free time. I have been a stung by a bee.
+
+Dialogue:
+  39123: I got a call from one of my friends. Apparently they accidentally dropped the book I lent them into the fire place and destroyed it. It was my favorite book too ...
+  Speaker 2: That's such a shame! I hope you are able to get another copy! Was it a valuable copy? 
+  Speaker 1: He's but life kind of sucks right now. So that bothered me a lot
+  Speaker 2: I hope you feel better soon. Is working at the library going okay? Work can be so stressful sometimes!
+  Speaker 1: Ya work is king of peaceful to be honest 
+  Speaker 2: That's good to hear! I like my job too. Teaching kids can be a handful sometimes but they're delightful most of the time. Just so inquisitive it's amazing. Are you seeing much of your family at the moment? 
+  Speaker 1: Yes I love Kids. I have nieces and they are the cutest ever. Do you like the age you teach?
+  Speaker 2: I do! I considered teaching older children and don't get me wrong they're great but there is something so special about kindergarten kids. They are just so full of fun. I bet your niece is so cute! 
+  Speaker 1: They are. Anna and Lina are 8 and 5. 
+  Speaker 2: Aww such nice ages! Nice names too! Have you any ideas what you might name your kids if you end up having any?
+  Speaker 1: I definitely want to have have kids but not sure when
+  Speaker 2: You have plenty of time! I don't want kids personally but I totally get why people have them. I'm not sure if it's because I work with kids all day that maybe I don't want my own. 
+
+Questions Asked:
+  39123:
+    No questions asked.
+  Speaker 2:
+    - Was it a valuable copy?
+    - Is working at the library going okay?
+    - Are you seeing much of your family at the moment?
+    - Have you any ideas what you might name your kids if you end up having any?
+  Speaker 1:
+    - Do you like the age you teach?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_4553
+  session_id: 2
+Personas:
+  Persona 1:
+    - I love to go to the lake. I fish and knit at the same time.
+    - I want to listen to the Japanese Rock music. I like country music. I like Keith Urban.
+  Persona 2:
+    - I like listening to eighties hair metal music. I enjoy Japanese rock music on spotify. I enjoy Survive Said the Prophet. I love guns and roses.
+    - I don't have a corvette.  I don't walk a lot.
+    - I work a lot.
+
+Dialogue:
+  35449: Does Survive Said the Prophet have any good music videos?
+  Speaker 2: I don't watch very many videos. I just like to listen to it loud through my headphones.  I am starting to get into fishing, what is your favorite kind of fish to go after?
+  Speaker 1: I love to fish for carp they are great to have a fight with when bringing them in but as long as I'm fishing I'm not worried what I'm catching.
+  Speaker 2: I agree, I live close to the ocean and it is fun to surf fish because there are so many different fish. You never know what it will be.
+  Speaker 1: Yeah there are so many different kinds of fish out there to catch. I like to listen to my country music while I fish gets me in the mood.
+  Speaker 2: That is funny! Maybe I should try a little Welcome to the Jungle next time and see if I get pumped up to fish. I have never really listened to country music. Who else do you like besides Keith Urban?
+  Speaker 1: Yeah that might just get you pumped up. I like Tim McGraw as well among others but he is one of my favourites.
+  Speaker 2: I will have to check out some of his songs.  I have heard a few Toby Keith songs. They seem to be pretty rowdy and fun.
+  Speaker 1: Yeah they are, there are a lot of good songs out there some that are not always in the mainstream.
+  Speaker 2: So you knit and fish and listen to country music at the same time. That is cool. Have you made any ugly christmas sweaters? LOL
+  35449: Yeah lol. I like to try my hand at lots of things it keeps me busy.
+
+Questions Asked:
+  35449:
+    - Does Survive Said the Prophet have any good music videos?
+  Speaker 2:
+    - I am starting to get into fishing, what is your favorite kind of fish to go after?
+    - Who else do you like besides Keith Urban?
+    - Have you made any ugly christmas sweaters?
+  Speaker 1:
+    No questions asked.
+
+
+
+Metadata:
+  initial_data_id: train:ordered_8641
+  session_id: 2
+Personas:
+  Persona 1:
+    - I work part time at mcdonalds. This is my first job. I'm a student in college. I don't know what I want to be.
+    - I like going to rock concerts.
+    - I like to party.
+    - I grew up on a farm. I left the farm and moved to a big city. I don't like to read.
+    - my family and I just moved across the country.
+    - I write. I want to publish a book.
+  Persona 2:
+    - I drink tea all day long.
+    - I work at a bookstore. I love books.
+    - I studied writing in college. I want to be a writer. I write short fiction in my spare time. I write about my imagination.
+    - I like going to art museums. I write about working in an art museum.
+
+Dialogue:
+  Speaker 1: Did you make any progress on your book? 
+  Speaker 2: Oh! Yes I  did. What's the title of your book you wanna publish?
+  Speaker 1: I haven't thought of a good title yet. But I wanted to write about growing up on a farm. I had an interesting childhood and I think others would like reading about it!
+  Speaker 2: I think i would like it. I'd love to read about your experience on the farm. I find those kinds of read very interesting.
+  Speaker 1: What do you think would be an eye catching title that would make you want to read it?
+  Speaker 2: Ok, what do you think about "Memories"?
+  Speaker 1: It's okay. I was trying to think of something that would let people know it's about farm life too though.
+  Speaker 2: Ok. How about "Farm Memories"?
+  Speaker 1: I'll consider it. would you like to be a reader for me before I get it published?
+  Speaker 2: Absolutely. I'd love to be a reader. I'll be an honor.
+  Speaker 1: what is the story about that you are writing?
+  Speaker 2: I'm writing about working in an art museum?
+
+Questions Asked:
+  Speaker 1:
+    - Did you make any progress on your book?
+    - What do you think would be an eye catching title that would make you want to read it?
+    - would you like to be a reader for me before I get it published?
+    - what is the story about that you are writing?
+  Speaker 2:
+    - What's the title of your book you wanna publish?
+    - Ok, what do you think about "Memories"?
+    - How about "Farm Memories"?
+    - I'm writing about working in an art museum?
+
+
+Loaded 1001 training data items for msc_dialogue session_4.
+Analysis Results:
+total_dialogues: 1001
+average_turns_per_dialogue: 11.858141858141858
+average_turn_length: 124.36259477674811
+average_personas_per_dialogue: 5.873626373626373
+average_previous_dialogues: 3.0
+
+Inspecting a randomly picked dialogue session:
+
+Metadata:
+  initial_data_id: train:ordered_2726
+  session_id: 3
+Personas:
+  Persona 1:
+    - I have blonde hair that reaches my knees.
+    - I do not understand Hockey.
+    - I like dogs and cats. I care for animals in my volunteer work. I like to volunteer at animal shelter. I am often in Paris.
+    - I don't have any siblings. The animals I take care of feel like my family.
+  Persona 2:
+    - I love hockey.
+    - I went to college. I am not a student. I went to college for computer science.
+    - I am rich. I inherited money. I developed my own company.
+    - I have been to Paris. I intend to go back to Paris with both of my sisters soon. I am going to Paris to celebrate a birthday. I am not from Paris originally.
+    - We would like to visit Disneyland.
+    - I would like to get a dog. I like chihuahuas. I had a dog when I was young, but she had died. Her name was Josey.
+    - I have a large family, including two aunts, two uncles, four grandparents, parents, and two older sisters.
+    - My birthday is soon, on March 31st. I am going to Paris to celebrate my Mum's birthday. I do not have birthday plans.
+
+Dialogue:
+  Speaker 1: I took care of a chihuahua at the animal shelter!
+  Speaker 2: Oh, cool! I am looking to adopt soon, and am strongly considering a chihuahua I met at a local shelter. Do you have advice for people thinking of adopting from shelters?
+  Speaker 1: My only advice is do it! There are so many sweet babies in the shelters that need homes and usually they make the best pets. 
+  Speaker 2: That's what I was thinking too. It makes sad how many pets don't belong to the best homes, and I want to help with that. Have you ever adopted from a shelter, or one you volunteer at?
+  Speaker 1: I know:( I wish I could take them all home. I have! Infact, my oldest cat was a rescue from a shelter. Shes the sweetest thing.
+  Speaker 2: I have never had a cat, but I would like to get one soon I think. They seem lower maintenance than dogs. Do you prefer dogs or cats?
+  Speaker 1: I love them both but dogs are much more sociable and interacting where as cats kind of only want snuggles or love on their terms if that makes sense.
+  Speaker 2: Cats do seem less affectionate overall but it might be nice that they're lower maintenance. Dogs feel like more a member of the family though. Do cats require much attention when you volunteer?
+  Speaker 1: Not really, they just need food and water. They like to play a little bit. I would say they like to play for maybe 20 to 30 minutes.
+  Speaker 2: That's great. I have plenty of time to take care of pets most of the time, but I also need to figure out what to do with them while I travel. Speaking of which, have you been in Paris lately?
+  Speaker 1: Usually your local vet will have a boarding program that isn't very costly. I haven't lately but have a trip planned soon!
+  Speaker 2: That's exciting! And good to know. I am going to be in Paris again very soon. Are there any spots in Paris you might recommend?
+
+Questions Asked:
+  Speaker 1:
+    No questions asked.
+  Speaker 2:
+    - Do you have advice for people thinking of adopting from shelters?
+    - Have you ever adopted from a shelter, or one you volunteer at?
+    - Do you prefer dogs or cats?
+    - Do cats require much attention when you volunteer?
+    - Speaking of which, have you been in Paris lately?
+    - Are there any spots in Paris you might recommend?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_3187
+  session_id: 3
+Personas:
+  Persona 1:
+    - My name is Joe.
+    - I do not like sports. I am chubby.
+    - I love my job as an interior designer. I find it stimulating and easy to stay focused on it.
+    - I like the music group ICP.
+    - I don't like flying. I prefer to drive. I have a car. I do not like to go far from home.
+    - I am designing a restaurant. I am building a resume for the job field of interior design.
+    - I get an emotional high from doing design work I like Insane Clown Posse. I do live-action role playing. I like the song Hokus Pokus from Insane Clown Posse.
+  Persona 2:
+    - My favorite sport is Hockey.
+    - I need a work out partner. I go to gym frequently. I do not have any close friends locally. I don't know many people in this area. I am looking for a gym partner.
+    - For me, working out is a natural high and is addictive. When I'm working out, I focus on the muscles while I lift weights. I don't usually listen to music while working out.
+    - I am not familiar with Insane Clown Posse.
+    - I am a business major, but am getting bored with it.
+
+Dialogue:
+  Speaker 1: How was your last workout?
+  Speaker 2: It was okay, I think working out every day makes it so my workouts aren't the greatest. I think I need to build in a rest day. Any new interior design clients?
+  Speaker 1: Unfortunately no but I'm not letting it get me discouraged, just have to keep at it. As far as your workout situation yeah, you're body needs time to rest and heal between workout or you're not doing yourself any good. Maybe treat yourself to a spa/massage day. 
+  Speaker 2: I feel like since it's summer, most people are thinking about the outside of their home, I bet business will pick up come fall, when people are spending more time inside. 
+  Speaker 1: You're probably right, I didn't think about it that way. That gives me more motivation to keep waiting for new clientele. I know you're getting bored being with your business major any thoughts on which direction you might go instead or do you think you'll just tough it out and hope you find new optimism relating to it? 
+  Speaker 2: I am toughing it out. Hopefully I will have an epiphany someday of what I really want to do. I guess having a business degree is important for most jobs these days. So I am not wasting my time.
+  Speaker 1: That's true it's definitely useful. I know you're looking for a gym partner I might know someone who would be willing to work out with you. The guy is a literal gym rat I'll have to get in contact with him and see if he's interested in finding a gym buddy and get back to you. 
+  Speaker 2: That would be awesome! I'd appreciate his insight and ideas. I am kinda just going along with what I know and what I read about. Would love a partner! Thanks so much.
+  Speaker 1: Yeah no problem, it'll probably take me a few days to get a hold of him and get his response. He's a little slow communicating but overall he's a good person and like I said he is all about the gym life. Do you have any hobbies besides working out? 
+  Speaker 2: That's not a problem! I've been going it alone for so long. It'll be nice to have the company eventually. I enjoy tasting craft beer - so going around to the local taprooms and getting tasting flights.
+  Speaker 1: Oh, that's neat. I've met a few people who are beer enthusiasts personally I don't drink at all. Well let me rephrase that I'll have MAYBE one beer when I'm out with friends but even when I'm out with friends it's an extremely rare occasion that I'll actually drink. 
+  Speaker 2: Do you enjoy the taste or just get it because you are out with friends? My dad only drinks because he's around people, he doesn't even like the taste!
+
+Questions Asked:
+  Speaker 1:
+    - How was your last workout?
+    - I know you're getting bored being with your business major any thoughts on which direction you might go instead or do you think you'll just tough it out and hope you find new optimism relating to it?
+    - Do you have any hobbies besides working out?
+  Speaker 2:
+    - Any new interior design clients?
+    - Do you enjoy the taste or just get it because you are out with friends?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_121
+  session_id: 3
+Personas:
+  Persona 1:
+    - My eyebrows and hair are brown.
+    - I have not been bitten by a dog.
+    - I work on wall street. I have an apartment in new york. 
+    - I like pizza.
+    - I watched the movie Trading Places in the 80's.  I am good at math. I got my MBA from the University of Tennessee in 1999 and moved to NYC immediately after graduation. I have been working on Wall street for 22 years.
+    - I like  Marilyn Manson music. I like smooth jazz. Miles Davis and Duke Ellington are my favorite. I like the trombone.
+  Persona 2:
+    - My eyebrows are blonde. My hair is blonde.
+    - I have been bitten by a dog.
+    - I work at a web hosting company. I live in New York. I enjoy laid back job.
+    - I like Marilyn Manson.I don't mind jazz.
+    - I love vampire music with pizza. I love Detroit-style deep dish pizza. I like simple toppings - pepperoni and sausage. I like spicy food .
+
+Dialogue:
+  Speaker 1: I have just bought the tickets for Marilyn Manson concert!
+  Speaker 2: I'm so jealous! I only got to see him once but he is amazing in concert.
+  Speaker 1: That's awesome.  I've never seen him in concert but I'm expecting it to be an intense experience.
+  Speaker 2: Seriously you are in for one heck of a show! Are you going with some friends?
+  Speaker 1: Yes, I convinced a couple of guys and a girl from the office to go with me.  One of the guys is a fan and then the other guy and the girl were just wanting to do something different.  It should be fun.
+  Speaker 2: Definitely a lot different than the jazz concerts you tend to frequent. Man if I lived closer, I'd ask to tag along with you.
+  Speaker 1: Yeah, that would be awesome if you could come along.  I'll see if I can record some of it and I'll send you the video.
+  Speaker 2: Thanks! It's so hard to get around New York sometimes without a car. I'll just have to munch on some Detroit style deep dish pizza and pretend I'm there.
+  Speaker 1: For sure.  Speaking of that, I think we're going to try to get some dinner before the show.  Do you have any restaurants that you particularly love in the city?  I haven't found anything new in quite a while that's excited me all that much.
+  Speaker 2: Katz's Delicatessen is my go-to. They're also open at all crazy hours of the night, so you can even stop by after if you're inclined. The atmosphere is amazing, the waitstaff is top notch, and there's a huge variety of food to pig out on
+  Speaker 1: That's a great idea!  Maybe we'll get some drinks and some appetizers from someplace before the concert and then anyone who's hungry afterwards can go to Katz's for some late-night sustenance.  What do you typically get when you eat there?
+  Speaker 2: I can't resist their brisket sandwich.. it's just so tender and rich in flavor. And their NY egg cream is to do for. It's such a unique experience.
+
+Questions Asked:
+  Speaker 1:
+    - Do you have any restaurants that you particularly love in the city?
+    - What do you typically get when you eat there?
+  Speaker 2:
+    - Are you going with some friends?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_3041
+  session_id: 3
+Personas:
+  Persona 1:
+    - I work at McDonalds.
+    - I like movies.  Star Wars is my favourite. I have Disney plus.
+    - I spend time doing football practice.
+    - I play video games.  I am considering doing a major in computer game design.
+    - I have a pet iguana.
+    - I have heard Muse songs on the radio.
+    - I'm a fan of the Mandalorian. I like it more than some of the new Star Wars movies. I'm a Marvel fan. I want to watch Wandavision. I have seen the older Marvel movies, but not all of them.
+  Persona 2:
+    - I work stocking shelves at Walmart.  I am leaving for college in 3 months. I will no longer work at Walmart. I love stocking shelves.
+    - My favorite band is Muse. I have not attended a Muse concert.
+    - My father likes Star Wars.
+    - I am a vegan.
+    - I like Star Wars. I have not watched the Mandalorian. I'm planning to watch the Mandalorian. I really like Wandavision. I've recently been watching the Marvel movies in order. I have a bad attention span, but Marvel movies hold my attention.
+
+Dialogue:
+  Speaker 1: I just watched the first episode of Wandavision, but I'm not really sure if it's for me.
+  Speaker 2: Oh, give it another few episodes.  It gets better, believe me!  I still havent seen the Mandelorian yet.
+  Speaker 1: Okay, I will give Wandavision more time if you promise to watch the Mandalorian. It will be worth it!
+  Speaker 2: It's a deal!  So hows your work going at McDonalds?  Has it been busy?
+  Speaker 1: It's been busy especially with this weekend being a holiday weekend, we had a huge surge in customers. How is your job at Walmart going?
+  Speaker 2: The same.  Busy stocking.  You're right though, this weekend was really busy because of the holiday.  Do you have any plans for a barbeque or anything ?
+  Speaker 1: Yes, my family is getting together today to barbeque and spend time together, what about you?
+  Speaker 2: I'm working later today.  I'll see my family for a little bit...hopefully they make me a burger or hot dog before I have to go haha.  
+  Speaker 1: Yeah, I would grab a plate of food before work if I were you! So are you getting excited to leave for college?
+  Speaker 2: Very excited!  But also nervous because it's so new and different.  I can't wait for all the experiences !
+  Speaker 1: Will you still be close to family or are you going far away?
+  Speaker 2: About two hours away.  So, close but not that close. That's why I can't keep my current walmart job.  I'm hoping they hire me back when I come home for breaks and stuff
+
+Questions Asked:
+  Speaker 1:
+    - How is your job at Walmart going?
+    - Yes, my family is getting together today to barbeque and spend time together, what about you?
+    - So are you getting excited to leave for college?
+    - Will you still be close to family or are you going far away?
+  Speaker 2:
+    - So hows your work going at McDonalds?
+    - Has it been busy?
+    - Do you have any plans for a barbeque or anything ?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_2624
+  session_id: 3
+Personas:
+  Persona 1:
+    - I works as setting meetings up for people.
+    - I have a husband and two children, ages 7 and 5. I will have a road trip to Seattle with family this friday. I love to take road trips. My favorite place to visit is seattle.
+    - I am easily sunburned. I am interested in skin care. I am interested in trying new things.
+  Persona 2:
+    - I have a job to sell makeup and skincare.
+    - I am not married. I am unsure whether I want to have children. I have been busy at work recently. I am successful at work. I hope to start my own makeup line one day.
+    - I take fridays off in the summer.
+    - I wear moisturizer and foundation whenever I leave home. I protect my skin from sun damage. I get discounts on skincare products. I prefer higher quality skincare items.
+    - I having dinner and seeing a movie with my best friend on Friday.  I don't go out with my best friend very often.
+    - I didn't use makeup for a period of time.
+
+Dialogue:
+  Speaker 1: I finally got that moisturizer, I can't wait to try it! Still haven't found the foundation though.
+  Speaker 2: I'm glad you got the moisturizer.  I really think it will do wonders for you.
+  Speaker 1: Thank you for the advice on it! I will let you know how it goes. Any suggestions on where I should look for the foundation?
+  Speaker 2: Let me do some research and get back to you.  I should be able to locate it somewhere, I just need to try a few sources.  This foundation is really good so it's in demand.  I'd love for you to be able to get it before you go to Seattle.  What are you planning on doing there?
+  Speaker 1: We leave for Seattle this Friday. I can always pick it up en route since we are doing it as a road trip. 
+  Speaker 2: Do you have any sites you're planning on stopping at along the way?  Or once you get to Seattle?
+  Speaker 1: I am willing to stop anywhere along the way to get the foundation. We are not planning any stops specifically, just going with the flow. 
+  Speaker 2: That sounds fun.  I enjoy being on the road and having no schedule or itinerary.  What about in Seattle?  Have you ever been to the Space Needle?
+  Speaker 1: I have never been to the Space Needle but we are hoping to make it this trip!! Do you have any other favorite places in Seattle we should visit?
+  Speaker 2: I watched a video about the Chinatown there.  If I were going I'd probably go there for a nice Chinese meal one day.  And probably Pike Place Market.
+  Speaker 1: That sounds great! Chinatown visit it is! Thanks! So, are you looking forward to getting together with your friend this weekend?
+  Speaker 2: Yes, although I'm hoping she doesn't get another emergency and we have to reschedule again.  I don't get to see her as much as I'd like so I'm really hoping she doesn't pull out again.
+
+Questions Asked:
+  Speaker 1:
+    - Any suggestions on where I should look for the foundation?
+    - Do you have any other favorite places in Seattle we should visit?
+    - So, are you looking forward to getting together with your friend this weekend?
+  Speaker 2:
+    - What are you planning on doing there?
+    - Do you have any sites you're planning on stopping at along the way?
+    - Or once you get to Seattle?
+    - What about in Seattle?
+    - Have you ever been to the Space Needle?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_279
+  session_id: 3
+Personas:
+  Persona 1:
+    - My mom loves the Beatles. I love living with my mom. I hate broccoli.
+    - I design new games. The video game I created is an adventure game about a mother and son who are best friends and finding a lost mom
+    - I don't like night time. I stay up late sometimes. I make video games that take up a lot of my time. 
+    - I recently made a game. I am concerned about environmental things.
+  Persona 2:
+    - I like the Beatles.
+    - I like science. My family members are scientists. I invented solar lamps.
+    - My parents forced me to learn science. I don't live with my parents.
+    - I invent things to be helpful to the environment. I am interested in environmental causes and want to reduce energy used.
+    - I like reducing waste. I made a gadget that sorts recycling. I haven't made much money inventing.
+
+Dialogue:
+  Speaker 1: My game got good reviews, I'm very excited! 
+  Speaker 2: That is amazing, I am so happy for you! What was the general feedback or comments that you received?
+  Speaker 1: The the game was the best adventure game many have played.
+  Speaker 2: That sounds great. I would love to try it myself! What was the concept for this new game?
+  Speaker 1: The basic concept of the game was about a mother and a son who are best friends, but they were separated at some point and now they are trying to find each other. 
+  Speaker 2: Your game sounds so compelling. What are your inspirations for your games? What other video games do you like to play?
+  Speaker 1: The inspiration came from my love for living and spending time with my own mother. I tend to play video games that take up a lot of my time or take a long time to complete. I love a challenge.
+  Speaker 2: That's great that you love a challenge, and it is amazing that it is something that you are passionate about. What are your other passions?
+  Speaker 1: I am very passionate about the environment. Speaking of the environment, have you made any new gadgets to help with sorting recycling?
+  Speaker 2: I haven't made any new gadgets since we last spoke, I am having trouble coming up with new concepts. I need to get the creative juices flowing!
+  Speaker 1: Maybe you can use something from your solar lamps that you invented. Maybe you can create something with them, like an automatic sorter that runs off your solar lamps for power.
+  Speaker 2: I think you may be onto something! I may have to bring you into my business as a creative partner at the rate things are going!
+
+Questions Asked:
+  Speaker 1:
+    - Speaking of the environment, have you made any new gadgets to help with sorting recycling?
+  Speaker 2:
+    - What was the general feedback or comments that you received?
+    - What was the concept for this new game?
+    - What are your inspirations for your games?
+    - What other video games do you like to play?
+    - What are your other passions?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_1201
+  session_id: 3
+Personas:
+  Persona 1:
+    - I am a mother. I am 77. My grandson loves super heroes and wearing capes.  I love my family and I love animals. 
+    - I am a retired computer programmer. I retired from work 10 years ago.
+    - I like to read.
+    - I have dogs.
+    - My daughter and grandson recently visited me. I was very happy about it.
+    - I enjoyed being single and going out with friends too. I am too old to do it now though, it would be too tiring. I enjoy a glass of wine in the evening.
+  Persona 2:
+    - I like to drink alcohol. My favorite drinks are Mai Tai and Margarita. I like strong margarita. I also like chips and queso.
+    - I like online shopping.
+    - I am 32.
+    - I don't have children or a romantic partner. I enjoy being single and going out at night. I like having drinks with my friends.
+    - I am writing a book about an everyday hero. I think ordinary people can do great things and change the world. My book will be published in 3 months.
+    - I am writing a book for 7-10 year old children. I will send a copy of my book to your grandson.
+    - My next book is about a comic book creator. I have to do more research about him.
+
+Dialogue:
+  Speaker 1: Are you making any progress on your book? I told my grandson about it and he can't wait to read it!
+  Speaker 2: Yes, I have made a ton of progress and have finished up most of the pictures for the book! It makes me happy to hear that your grandson is excited about it! I should finish it all by next week to send to your grandson.
+  Speaker 1: he would love that! he's probably your biggest fan right now, haha! 
+  Speaker 2: Haha I probably wouldn't doubt that... What does your grandson like reading about?
+  Speaker 1: everything and anything. right now, he's really into fiction and mystery. he can't stop reading detective stories!
+  Speaker 2: wow I love detective stories! I used to read them all the time as a kid as well. Does he like to read by himself or do you read aloud to him?
+  Speaker 1: i started off by reading to him at night, but then he started reading all day by himself! so a mixture of both i guess. it's nice to see him enjoy reading, though. most kids detest it. 
+  Speaker 2: I know, I'm glad your grandson has that interest. My friend tells me he can barely get his son to pick up a book let alone read one... 
+  Speaker 1: yeah, that's tough! reading opens them up to so many things, not to mention it gets them ahead in their classes a lot of the time. their vocabulary expands so much just by reading a few books. it's a great tool!
+  Speaker 2: You're absolutely correct! That's why I wanted to become a writer in the first place. I hope I can inspire kids who are so much more absorbed with their phones nowadays to still pick up a book and gain all of those benefits.
+  Speaker 1: that's a great goal! and you've already accomplished it with one kid, that's for sure!
+  Speaker 2: Haha thank you, that's great to hear! How often do you see your grandson?
+
+Questions Asked:
+  Speaker 1:
+    - Are you making any progress on your book?
+  Speaker 2:
+    - What does your grandson like reading about?
+    - Does he like to read by himself or do you read aloud to him?
+    - How often do you see your grandson?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_1511
+  session_id: 3
+Personas:
+  Persona 1:
+    - I've been married 3 years. I have kids and grandchildren. I like to travel with my kids and grandkids.
+    - I like reading about the beach. The beach is my favorite place.
+    - I teach for a living.
+    - My husband is a cop.
+    - I live in South Carolina.
+    - I like to bowl.
+    - I have never been to Cuba. I have a brother who lives in Tampa. I would love to visit Cuba. I love Folly Beach in South Carolina. I don't live far from Folly Beach.
+    - I read "Dear John" by Nicholas Sparks. I love drama books.
+  Persona 2:
+    - I'm a librarian. I like reading horror novels. I've been married 9 years.
+    - I live in Ohio.
+    - I have 2 children and 3 grandchildren. I have a 1 year old granddaughter, and 3 and 5 year old grandsons. I like getting my grandkids together with other kids.
+    - I like traveling with my husband. My favorite place to travel is Cuba. I love beaches. I love Cuban cigars. I visit Cuba.
+    - I've never been to Folly Beach. I am married. My husband passes out Cuban cigars to clients. My husband is funny.
+    - I love to read. The last book I read was "Smoke Signal.".
+
+Dialogue:
+  Speaker 1: I was thinking about reading a horror novel. What's the best horror novel you've read lately?
+  Speaker 2: House of Leaves is low key a great horror novel. It's a bit of a hard read and considered an achievement among readers because it's 1000 pages and a little odd. Have you heard of it?
+  Speaker 1: I have heard of it but had no idea what it was about. What makes it a hard read? Is it the 1000 pages? Thank you for the recommendation.
+  Speaker 2: It reads a bit like a textbook, but also it has footers that add to that "textbook" feel. If you would rather read a horror novel about the beach, you could always read Jaws.
+  Speaker 1: I get enough textbooks in my field of work teaching. Maybe Jaws would be a better start. I enjoyed the film but how closely related are the books?
+  Speaker 2: Of course the movies are always a bit different from books with all that artistic liberty. Give it a read and see if you like it. Maybe we can go bowling sometime and discuss the book?
+  Speaker 1: That would be good, bowling is one of my favorite past times. Do you bowl much? 
+  Speaker 2: Not much, but I would like to pick up some more hobbies to get me out of the library. I've always wanted to try that duckpin bowling. Have you done that or do you just stick to traditional bowling?
+  Speaker 1: Normally traditional bowling but I am up for trying duckpin bowling. I feel like there would be good cross over.
+  Speaker 2: I'm sure it can't beat traditional bowling. It's probably a lot more for the younger crowd so we probably would stand out. 
+  Speaker 1: I would imagine so. I have tried taking my grandkids and they just roll the balls down the ramps. With duckpin bowling they can probably throw them themselves.
+  Speaker 2: The ball is much smaller so they probably can throw it themselves. I think it's like a little cannonball. It would be cute to see them tossing it down the lane.
+
+Questions Asked:
+  Speaker 1:
+    - What's the best horror novel you've read lately?
+    - What makes it a hard read?
+    - Is it the 1000 pages?
+    - I enjoyed the film but how closely related are the books?
+    - Do you bowl much?
+  Speaker 2:
+    - Have you heard of it?
+    - Maybe we can go bowling sometime and discuss the book?
+    - Have you done that or do you just stick to traditional bowling?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_2825
+  session_id: 3
+Personas:
+  Persona 1:
+    - I am a mechanic and I own a corvette.
+    - I live in california and love to surf.
+    - I enjoy watching tv.
+    - I saw a shark when surfing. I am interested in toasters.
+    - I love scary things. I don't read books much.
+    - I have seen the movie Jaws. I have encountered a shark in real life.
+  Persona 2:
+    - I go to church every weekend.
+    - I love scary movies. I like reading and my favorite author is stephen king. I am reading a Stephen King book. I have seen several of the movies from the Jaws trilogy.
+    - I don't watch tv. I watch travel shows.
+    - I do not surf.
+    - I have a toaster.
+    - I have been to a resort.
+
+Dialogue:
+  Speaker 1: Did you finish your book yet?
+  Speaker 2: I am almost done with the book! How come you don't like reading books?
+  Speaker 1: I just much prefer to watch shows or movies than to read books, I find that i loose concentration when reading. 
+  Speaker 2: I agree that it can be difficult to concentrate on a book if you don't like the book. Have you tried to read various books?
+  Speaker 1: Yes I have tried to over the years, different genres and different size books, they are just not for me. What is your book about? 
+  Speaker 2: The book I am reading is by the author stephen king and the book is a horror book. What type of horror movies do you like?
+  Speaker 1: I enjoyed watching A Quiet Place, and Wrong turn, Which horror is you favorite? 
+  Speaker 2: I think the Jaws movies are excellent! I also like the Blade movies with Wesley Snipes. Have you seen them?
+  Speaker 1: Yes they are both great movies, I think I personally prefer jaws over the blade movies though. 
+  Speaker 2: I love vampire and zombie movies! They are scary, yet entertaining to me. 
+  Speaker 1: Yeah they are great. I love watching tv shows based on supernatural too. Like the Vampire diaries, Teen Wolf, and the Supernaturals. . 
+  Speaker 2: I have never seen them, but I have heard about them. I am more of a movie fan than a TV show fan. 
+
+Questions Asked:
+  Speaker 1:
+    - Did you finish your book yet?
+    - What is your book about?
+    - I enjoyed watching A Quiet Place, and Wrong turn, Which horror is you favorite?
+  Speaker 2:
+    - How come you don't like reading books?
+    - Have you tried to read various books?
+    - What type of horror movies do you like?
+    - Have you seen them?
+
+
+
+Metadata:
+  initial_data_id: train:ordered_1720
+  session_id: 3
+Personas:
+  Persona 1:
+    - I am young and have three brothers.
+    - I donated to the Red Cross.
+    - I go to high school and I live on a small farm. There are cows on my farm.
+    - I have played guitar since I was 6. My dad played guitar in a band.
+    - I do not do any sports.
+    - I'd like to have a small family when I grow up. 6 people live in my house. My house is small.
+  Persona 2:
+    - I like to relax after yoga.
+    - I am married with 2 children. My son is 10 years old and has played drums since he was 6.
+    - I volunteer at the Red Cross.
+    - I teach at a high school.
+    - I am from Chicago.
+    - I enjoy running in the city. I ran the marathon a few years back. I trained for the marathon with some friends. I am not training for a marathon now. I run to clear my mind.
+    - My family is crazy sometimes. My son plays the drums.
+    - I come from a family of 10. I did not grow up on a farm. I sometimes wish I had grown up on a farm. I sometimes go to help my friend with her dairy farm.
+
+Dialogue:
+  Speaker 1: Do you think you'll ever train for another marathon?
+  Speaker 2: I hope so. I haven't really had the time lately but hopefully soon. How's your day been?
+  Speaker 1: Its been pretty great so far. I had to wake up early to feed the cows and now I'm taking a break from helping my parents around the farm.  If you're ever looking to help out at another farm, you're always welcome here!!
+  Speaker 2: I would love that! I help out on my friend's dairy farm some time and I love it. Always looking to get my hands in some hay and out from the noise of my kid's drums, ha!
+  Speaker 1: You'll hear a lot of guitar by us but I have a feeling you'll like that more than just banging drums all day. In fact, my dad just learned some very soothing songs that would probably even be good to play while doing yoga.  How is your practice going?
+  Speaker 2: It's going well, thankyou. And guitar is so much more soothing than drums so no problem there! And the perfect backdrop for working on a farm. I'm so excited!
+  Speaker 1: Great, come on over anytime. It will be a nice break from the city.  Do you have any volunteer opportunities coming up at the Red Cross?
+  Speaker 2: Not for a little while but I'd love if you joined me! I'm sure you could use a little escape from your house and all its hustle and bustle.
+  Speaker 1: You KNOW I would love that! I've never been to Chicago before, I'm sure it will seem so strange to me.
+  Speaker 2: It's such a great city! You'll love it, I promise. It might be a bit much at first but you're adaptable, you'll be just fine.
+  Speaker 1: It'll be especially comforting to know that I'll be there with someone who knows where and what they're doing. Do you have any other big plans for your summer break?
+  Speaker 2: I should really get started training for a marathon again, to be honest. That'll help me stick with the yoga and hopefully see the benefits of it in my run time!
+
+Questions Asked:
+  Speaker 1:
+    - Do you think you'll ever train for another marathon?
+    - How is your practice going?
+    - Do you have any volunteer opportunities coming up at the Red Cross?
+    - Do you have any other big plans for your summer break?
+  Speaker 2:
+    - How's your day been?
+
+
