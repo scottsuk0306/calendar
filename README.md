@@ -1,2 +1,2 @@
 # conversation
-Adapting LLMs to behave as a realistic character with unique persona. 
+Adapting large language models (LLMs) to act as conversational agents with distinct, realistic personas
