@@ -1,2 +1,2 @@
-# conversation
-Adapting large language models (LLMs) to act as conversational agents with distinct, realistic personas
+# Calendar for LLMs
+Enhancing large language models (LLMs) temporal reasoning ability with calendar use.
